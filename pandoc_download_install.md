@@ -24,7 +24,7 @@
 
 4. **Verify** that Pandoc has been successfully installed onto your computer or laptop. **Type** "Command Prompt" in the search bar next to the Windows icon on the bottom of your screen. 
   
-    >  **NOTE:** This step will be different depending on your operating system. 
+    >  **NOTE:** This step will be different depending on your operating system. This is called the "Terminal" in macOS. 
 
 5. **Click** the "Command Prompt" app to open the Command Prompt window (Refer to Figure 2). 
 
