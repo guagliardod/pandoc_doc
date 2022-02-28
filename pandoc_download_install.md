@@ -12,7 +12,7 @@
 
 1. **Open** your web browswer.
 
-2. **Type** "pandoc.org/installing.html" into the address bar. 
+2. **Type** [pandoc.org/installing.html](pandoc.org/installing.html) into the address bar. 
 
 3. **Click** the blue "Download the latest installer for Windows (64-bit) button under the "Installing pandoc" section (Refer to Figure 1).
 
