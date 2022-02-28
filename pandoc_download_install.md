@@ -1,5 +1,5 @@
-# How to Install Pandoc 
-## This section of the guide will teach you how to install Pandoc onto your laptop or computer.
+# How to Download and Install Pandoc 
+## This section of the guide will teach you how to download and install Pandoc onto your laptop or computer.
 
 # Tools and Requirements
 - Preferred web browser 
