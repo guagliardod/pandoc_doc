@@ -7,7 +7,7 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 - Terminal (Refer to Figure 1)
 
 
-## Navigating to Content Directory
+## How to Navigate to a Content Directory
 
 1. Open up your preferred Terminal or Command Prompt.
 2. Use the `cd` command with the argument being a path to change directories (Refer to Figure 1 for an example).
@@ -18,7 +18,7 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 
 ## How to Publish to EPUB
 
-1. Follow [Navigating to Content Directory](#Navigating to Content Directory) or skip if you have already done so.
+1. Follow [Navigating to Content Directory](##How to Navigate to a Content Directory) or skip if you have already done so.
 2. Type the following command from Figure 2 into your terminal.
    <figure>
    <img src="images/photo5.png" alt="An incomplete pandoc command">
