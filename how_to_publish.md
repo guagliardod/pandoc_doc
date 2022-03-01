@@ -4,7 +4,8 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 
 ## Requirements
 
-- Terminal (Refer to Figure 1)
+- Have a Terminal or Command Prompt installed
+  > **NOTE:** No installation is needed, most operating systems have one by default.
 
 ## How to Navigate to a Content Directory
 
