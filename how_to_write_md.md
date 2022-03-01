@@ -20,11 +20,19 @@ This document will walk you through how to write a markdown file that can be use
     2. Type your heading
     3. Surround each heading with a blank line
 4. Type any plain text you want in the position on the document where you want it to show up
+    - Put two asterisks on both sides of any text you want to be bold
+    - Surround any text that you want to be itallicized with asterisks
+5. Create any numbered lists that you want to include
+    1. Put "1." In front of every line in the list
+    1. Include a blank line after the list
+6. Create any bulleted lists that you want to include
+    1. Put a "-" character at the beginning of every line in the list
+    2. Include a blank line after this list
 
 Figure 1 shows an example of a markdown file created using these specifications
 
 <figure>
-<img src="example.png" alt="Properly formatted markdown file">
+<img src="markdownexample.png" alt="Properly formatted markdown file">
 <figcaption>Figure 1: A Markdown File</figcaption>
 </figure>
 
