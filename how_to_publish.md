@@ -19,10 +19,10 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 ## How to Publish to EPUB
 
 1. Follow [Navigating to Content Directory](Navigating to Content Directory) or skip if you have already done so.
-2. Copy the following command into your terminal.
+2. Type the following command from Figure 2 into your terminal.
    <figure>
    <img src="images/photo5.png" alt="An incomplete pandoc command">
-   <figcaption>Figure 1: An incomplete pandoc command to generate EPUB</figcaption>
+   <figcaption>Figure 2: An incomplete pandoc command to generate EPUB</figcaption>
    </figure>
 3. Replaced the two `XXX`s in the command with the name of the markdown follow.
 4. Press enter to convert the file.
@@ -30,10 +30,10 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 ## How to Publish to HTML
 
 1. Follow [Navigating to Content Directory](Navigating to Content Directory) or skip if you have already done so.
-2. Copy the following command into your terminal.
+2. Type the following command from Figure 3 into your terminal.
    <figure>
    <img src="images/photo6.png" alt="An incomplete pandoc command">
-   <figcaption>Figure 1: An incomplete pandoc command to generate EPUB</figcaption>
+   <figcaption>Figure 3: An incomplete pandoc command to generate EPUB</figcaption>
    </figure>
 3. Replaced the two `XXX`s in the command with the name of the markdown follow.
 4. Press enter to convert the file.
@@ -41,10 +41,10 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 ## How to Publish to Word
 
 1. Follow [Navigating to Content Directory](Navigating to Content Directory) or skip if you have already done so.
-2. Copy the following command into your terminal.
+2. Type the following command from Figure 4 into your terminal.
    <figure>
    <img src="images/photo7.png" alt="An incomplete pandoc command">
-   <figcaption>Figure 1: An incomplete pandoc command to generate EPUB</figcaption>
+   <figcaption>Figure 4: An incomplete pandoc command to generate EPUB</figcaption>
    </figure>
 3. Replaced the two `XXX`s in the command with the name of the markdown follow.
 4. Press enter to convert the file.
@@ -52,10 +52,10 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 ## How to Publish to PDF
 
 1. Follow [Navigating to Content Directory](Navigating to Content Directory) or skip if you have already done so.
-2. Copy the following command into your terminal.
+2. Type the following command from Figure 5 into your terminal.
    <figure>
    <img src="images/photo8.png" alt="An incomplete pandoc command">
-   <figcaption>Figure 1: An incomplete pandoc command to generate EPUB</figcaption>
+   <figcaption>Figure 5: An incomplete pandoc command to generate EPUB</figcaption>
    </figure>
 3. Replaced the two `XXX`s in the command with the name of the markdown follow.
 4. Press enter to convert the file.
