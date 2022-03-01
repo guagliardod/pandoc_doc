@@ -32,7 +32,7 @@ This document will walk you through how to write a markdown file that can be use
 Figure 1 shows an example of a markdown file created using these specifications
 
 <figure>
-<img src="markdownexample.png" alt="Properly formatted markdown file">
+<img src="images/markdownexample.png" alt="Properly formatted markdown file">
 <figcaption>Figure 1: A Markdown File</figcaption>
 </figure>
 
