@@ -12,11 +12,11 @@ As a student in ENGL 3814, you will need to work with Pandoc for many of your as
 
 ## Table of Contents
 
-- [What is Pandoc](#What is Pandoc)
-- [How to Download and Install Pandoc](#How to Download and Install Pandoc)
-- [How to Set Up a Writing and Publishing Environment](#How to Set Up a Writing and Publishing Environment)
-- [How to Write in Markdown for Pandoc](#How to Write in Markdown for Pandoc)
-- [How to Publish to EPUB, HTML, Word, and PDF](#How to Publish to EPUB, HTML, Word, and PDF)
+- [What is Pandoc](pandoc_documentation.md#What is Pandoc)
+- [How to Download and Install Pandoc](pandoc_documentation.md#How to Download and Install Pandoc)
+- [How to Set Up a Writing and Publishing Environment](pandoc_documentation.md#How to Set Up a Writing and Publishing Environment)
+- [How to Write in Markdown for Pandoc](pandoc_documentation.md#How to Write in Markdown for Pandoc)
+- [How to Publish to EPUB, HTML, Word, and PDF](pandoc_documentation.md#How to Publish to EPUB, HTML, Word, and PDF)
 
 ## What is Pandoc
 
