@@ -35,3 +35,7 @@ Once you have Pandoc installed, you may now begin setting up your working enivro
 9. Start working on your Markdown file.
 
 You have now set up your writing/publishing environment! **DON'T FORGET** to save your progress as you work.
+
+_________
+
+Back to [main page](index.md)

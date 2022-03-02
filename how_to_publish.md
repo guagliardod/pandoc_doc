@@ -98,3 +98,7 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 3. **Replace** the two `XXX`s in the command with the name of the markdown follow.
 
 4. **Press** enter to convert the file.
+
+_________
+
+Back to [main page](index.md)

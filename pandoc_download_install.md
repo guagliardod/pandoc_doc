@@ -41,3 +41,7 @@
     ![Photo 3](images/photo3.png)
   
   *Figure 3: The text that you must type to verify that Pandoc has successfully been installed. The Pandoc version message is also shown here.*
+
+_________
+
+Back to [main page](index.md)

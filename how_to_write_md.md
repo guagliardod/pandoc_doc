@@ -37,3 +37,7 @@ Figure 1 shows an example of a markdown file created using these specifications
 </figure>
 
 You should now have written a markdown document that is properly formatted to be converted to other file formats using Pandoc
+
+_________
+
+Back to [main page](index.md)
