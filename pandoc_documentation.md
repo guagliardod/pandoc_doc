@@ -29,9 +29,11 @@ This section of the guide will teach you how to download and install Pandoc onto
 ### Tools and Requirements
 
 * Preferred web browser
-    > **NOTE:** Google Chrome will be used in this guide.
+
+	> **NOTE:** Google Chrome will be used in this guide.
 * Computer or laptop with a functioning operating system (such as Windows or macOS)
-    > **NOTE:** Microsoft Windows will be used in this guide.
+
+	> **NOTE:** Microsoft Windows will be used in this guide.
 
 ### Steps
 
@@ -153,13 +155,11 @@ This document will walk you through how to write a markdown file that can be use
 
 Figure 6 shows an example of a markdown file created using these specifications
 
-<figure>
-<img src="images/photo9.png" alt="Properly formatted markdown file">
-<figcaption>Figure 6: A Markdown File</figcaption>
-</figure>
+![Markdown file](images/photo9.png)
+	*Figure 6: A Markdown File*
 
 You should now have written a markdown document that is properly formatted to be converted to other file formats using Pandoc.
-
+	
 ## How to Publish to EPUB, HTML, Word, and PDF
 
 This assumes that the reader knows how to open a terminal on their computer.  This guide will show you how to convert Markdown files to ePub, HTML, Word, and PDF files. In each code block the `#` is a comment line likely referring to view a figure.
@@ -180,13 +180,12 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 	cd projects/pandoc_doc/
 	```
 
-	<figure>
-	<img src="images/photo4.png" alt="Properly executed cd command">
-	<figcaption>Figure 7: An example cd command and resultant path change</figcaption>
-	</figure>
+	![CD Example](images/photo4.png)
+		*Figure 7: An example cd command and resultant path change*
 
 ### How to Publish to EPUB
-##### Before you begin make sure to follow the guide navigate to your content directory.
+
+Before you begin make sure to follow the guide navigate to your content directory.
 
 1. **Type** the following command into your terminal.
 
@@ -195,10 +194,8 @@ This assumes that the reader knows how to open a terminal on their computer.  Th
 	pandoc -s XXX.md -o XXX.epub
 	```
 
-	<figure>
-	<img src="images/photo5.png" alt="An incomplete pandoc command">
-	<figcaption>Figure 8: An incomplete pandoc command to generate EPUB</figcaption>
-	</figure>
+	![Pandoc Command](images/photo5.png)
+		*Figure 8: An incomplete pandoc command to generate an ePub file*
 
 3. **Replace** the two `XXX`s in the command with the name of the markdown follow.
 
@@ -215,10 +212,8 @@ Before you begin make sure to follow the guide navigate to your content director
 	pandoc -s XXX.md -o XXX.html
 	```
 
-	<figure>
-	<img src="images/photo6.png" alt="An incomplete pandoc command">
-	<figcaption>Figure 9: An incomplete pandoc command to generate EPUB</figcaption>
-	</figure>
+	![Pandoc Example](images/photo6.png)
+		*Figure 9: An incomplete pandoc command to generate an HTML file*
 
 2. **Replace** the two `XXX`s in the command with the name of the markdown follow.
 
@@ -235,10 +230,8 @@ Before you begin make sure to follow the guide navigate to your content director
 	pandoc -s XXX.md -o XXX.docx
 	```
 
-	<figure>
-	<img src="images/photo7.png" alt="An incomplete pandoc command">
-	<figcaption>Figure 10: An incomplete pandoc command to generate EPUB</figcaption>
-	</figure>
+	![Pandoc Command](images/photo7.png)
+		*Figure 10: An incomplete pandoc command to generate a word file*
 
 2. **Replace** the two `XXX`s in the command with the name of the markdown follow.
 
@@ -255,10 +248,8 @@ Before you begin make sure to follow the guide navigate to your content director
 	pandoc -s XXX.md -o XXX.pdf
 	```
 	
-	<figure>
-	<img src="images/photo8.png" alt="An incomplete pandoc command">
-	<figcaption>Figure 11: An incomplete pandoc command to generate EPUB</figcaption>
-	</figure>
+	![Pandoc Command](images/photo8.png)
+		*Figure 11: An incomplete pandoc command to generate a pdf file*
 
 2. **Replace** the two `XXX`s in the command with the name of the markdown follow.
 
