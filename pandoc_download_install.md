@@ -34,7 +34,9 @@
 
 6. Once the Command Prompt is open, you should see a blinking cursor. **Type** the following text where the blinking cursor is.
   
+  ```sh
     > pandoc \-\-version
+  ```
 
 7. **Press** enter. You should see a message telling you which version of Pandoc has been installed and other information (Refer to Figure 3). 
 
