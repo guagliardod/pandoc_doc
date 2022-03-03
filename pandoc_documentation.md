@@ -47,21 +47,14 @@ Before you start the process of converting your Word document into a Markdown fi
 
     > **NOTE:** Download the correct installer according to your operating system.
 
-	<figure>
-	<img src="images/photo1.png" alt="The Pandoc install page.">
-	<figcaption>Figure 1: The blue button is shown here.</figcaption>
-	</figure>
-
+	![The Pandoc install page.](images/photo1.png)
 4. **Verify** that Pandoc has been successfully installed onto your computer or laptop. **Type** "Command Prompt" in the search bar next to the Windows icon on the bottom of your screen.
   
     >  **NOTE:** This step will be different depending on your operating system.
 
 5. **Click** the "Command Prompt" app to open the Command Prompt window (Refer to Figure 2).
 
-	<figure>
-	<img src="images/photo2.png" alt="The Windows popup search bar with Command Prompt searched.">
-	<figcaption>Figure 2: The Command Prompt app.</figcaption>
-	</figure>
+	![The Windows popup search bar with Command Prompt searched.](images/photo2.png)
 
 6. Once the Command Prompt is open, you should see a blinking cursor. **Type** the following text where the blinking cursor is.
   
@@ -69,10 +62,7 @@ Before you start the process of converting your Word document into a Markdown fi
 
 7. **Press** enter. You should see a message telling you which version of Pandoc has been installed and other information (Refer to Figure 3).
 
-	<figure>
-	<img src="images/photo3.png" alt="The text that you must type to verify that Pandoc has successfully been installed.">
-	<figcaption>Figure 3: The Pandoc version message is shown here.</figcaption>
-	</figure>
+	![The text that you must type to verify that Pandoc has successfully been installed.](images/photo3.png)
 
 ## How to Set Up a Writing and Publishing Environment
 
@@ -94,14 +84,11 @@ Once you have Pandoc installed, you may now begin setting up your working enivro
     > NOTE: You might have already created this type of folder. If so, you do not need to create a new one.
 4. **Open** VS Code
 5. **Open** your project folder in VS Code
-
-    <ol type = "a">
-    <li>Click <code>File</code></li>
-    <li>Click <code>Open Folder...</code></li>
-    <li>Navigate to your project folder</li>
-    <li>Select your folder</li>
-    <li>Click <code>Select Folder</code></li>
-    </ol>
+    * **Click** `File`
+    * **Click** `Open Folder...`
+    * **Navigate** to your project folder
+    * **Select** your folder
+    * **Click** `Select Folder`
 6. **Right-click** the "Explorer" section on the left side of the window (see the square on Figure 5)
 7. **Click** `New File` (see the circle on Figure 5)
 
